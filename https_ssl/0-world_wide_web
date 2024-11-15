@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Function to check the DNS record for a subdomain
 check_subdomain() {
     local domain=$1
